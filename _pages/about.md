@@ -16,4 +16,4 @@ I am very fortunate to be advised by  [Prof. Wu Chunlin](https://math.nankai.edu
 
 
 
-You can find my CV here: [Jinshu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jinshu's Curriculum Vitae](https://github.com/Huangjsh15/Huangjinshu.github.io/blob/master/assets/Curriculum_Vitae.pdf).
