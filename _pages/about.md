@@ -13,6 +13,8 @@ My research interests include image inverse problems as well as fundamental theo
 
 I am very fortunate to be advised by  [Prof. Wu Chunlin](https://math.nankai.edu.cn/2023/1211/c34830a531300/page.htm) from [School of Mathematical Sciences, Nankai University](https://math.nankai.edu.cn/).
 
+Only a rolling stone gathers no moss.
+
 
 
 
